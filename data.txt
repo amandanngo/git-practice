@@ -1,0 +1,3 @@
+Name: Amanda
+Age: 20
+Favorite Color: Purple
