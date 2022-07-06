@@ -1,3 +1,5 @@
 Name: Amanda
 Age: 20
 Favorite Color: Purple
+Birth City: Berlin
+Alma Mater: USC
